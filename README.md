@@ -1,1 +1,4 @@
-# algorithm_study
+# algorithm
+
+head/
+algorithm
