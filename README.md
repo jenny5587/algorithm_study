@@ -1,5 +1,3 @@
-# algorithm
+# 파이썬 알고리즘 공부
 
-<head>
-algorithm_study
-  </head>
+07.11 ~ 07.15 1주차 ( 알고리즘 기초 ) 
